@@ -1,0 +1,12 @@
+{
+  "Name": "Rock",
+  "Model": "models/rocks.vmdl",
+  "Scale": 0.1,
+  "ScaleRandom": 0,
+  "AlignToNormal": true,
+  "RandomRotation": true,
+  "ZOffset": 0,
+  "ZOffsetRandom": 0,
+  "__references": [],
+  "__version": 0
+}

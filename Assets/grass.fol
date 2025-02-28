@@ -1,0 +1,14 @@
+{
+  "Name": "Grass",
+  "Model": "models/grasstest.vmdl",
+  "Scale": 0.2,
+  "ScaleRandom": 0.1,
+  "AlignToNormal": false,
+  "MaxNormal": 180,
+  "RandomRoll": true,
+  "RandomRotation": false,
+  "ZOffset": -5,
+  "ZOffsetRandom": 5,
+  "__references": [],
+  "__version": 0
+}

@@ -1,0 +1,32 @@
+{
+  "scene.lastopened": {
+    "Value": "[\u0022scenes/minimal.scene\u0022]",
+    "Timeout": 1731547206,
+    "DeleteAt": 0
+  },
+  "scenes/minimal.scene.Viewport0": {
+    "Value": "{\u0022CameraPosition\u0022:\u0022-26.78605,-717.371,583.9165\u0022,\u0022CameraRotation\u0022:\u0022-0.2828294,0.2788106,0.6535768,0.6442899\u0022,\u0022CameraOrthoHeight\u0022:201.45715}",
+    "Timeout": 1731547208,
+    "DeleteAt": 0
+  },
+  "gizmo.settings": {
+    "Value": "{\u0022EditMode\u0022:\u0022position\u0022,\u0022Selection\u0022:true,\u0022ViewMode\u0022:\u00223d\u0022,\u0022GizmosEnabled\u0022:true,\u0022GizmoScale\u0022:1,\u0022GridSpacing\u0022:32,\u0022SnapToGrid\u0022:true,\u0022SnapToAngles\u0022:true,\u0022AngleSpacing\u0022:15,\u0022GlobalSpace\u0022:false,\u0022DebugActionGraphs\u0022:false}",
+    "Timeout": 1731547207,
+    "DeleteAt": 0
+  },
+  "SceneView.Viewport0.Settings": {
+    "Value": "{\u0022CameraPosition\u0022:\u0022-26.78605,-717.371,583.9165\u0022,\u0022CameraRotation\u0022:\u0022-0.2828294,0.2788106,0.6535768,0.6442899\u0022,\u0022View\u0022:0,\u0022RenderMode\u0022:0,\u0022WireframeMode\u0022:false,\u0022EnablePostProcessing\u0022:true,\u0022ShowGrid\u0022:true,\u0022GridOpacity\u0022:0.2,\u0022GridAxis\u0022:0,\u0022CameraOrthoHeight\u0022:201.45715}",
+    "Timeout": 1731547208,
+    "DeleteAt": 0
+  },
+  "SceneView.Layout": {
+    "Value": "{\u0022Layout\u0022:0,\u0022SplitterState\u0022:[]}",
+    "Timeout": 1731547208,
+    "DeleteAt": 0
+  },
+  ".Viewport0": {
+    "Value": "{\u0022CameraPosition\u0022:\u0022-267.452,-379.653,297.7903\u0022,\u0022CameraRotation\u0022:\u0022-0.1325869,0.252241,0.4685308,0.836226\u0022,\u0022CameraOrthoHeight\u0022:201.45715}",
+    "Timeout": 1731544075,
+    "DeleteAt": 0
+  }
+}
